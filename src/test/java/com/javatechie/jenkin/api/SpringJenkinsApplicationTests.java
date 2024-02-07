@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 class SpringJenkinsApplicationTests {
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		log.info("Test case executing...");
 		log.info("Test case executing second log statement...");
 		assertEquals(true, true);
